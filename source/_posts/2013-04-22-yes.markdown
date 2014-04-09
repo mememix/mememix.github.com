@@ -1,8 +1,0 @@
----
-layout: post
-title: "yes?"
-date: 2013-04-22 16:03
-comments: true
-categories: 碎碎念~
----
-##So，成功了么？##
